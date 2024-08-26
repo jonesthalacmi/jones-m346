@@ -1,1 +1,21 @@
+## Iso File war zu alt daher Screens von Mitschüler 
 
+# Screen von Ausgabe der CPUs bei weniger CPU als Host System
+
+![alt text](image-1.png) 
+
+# Screen von Fehlermeldung wenn mehr CPU als Host System 
+
+![alt text](image-2.png) 
+
+# Screen von Ram weniger Ram als bei Host System 
+
+![alt text](image-3.png) 
+
+# Screen von Ausgabe der Ram mehr als Host System 
+
+![alt text](image-4.png) 
+
+# Erklärung wieso Fehlermeldungen 
+
+Ich benutze Typ2 der Resourcenverteilung, deswegen erlaubt mir die Virtualisierung höchstwahrscheinlich nicht, mehr Ressourcen für meine Gast-OS einzuteilen, als ich auf meiner Host-OS besitze.
